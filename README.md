@@ -8,7 +8,7 @@
   Home and Icon
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Myapp is a Swift-based application designed to address the challenge of low geographic data collection rates on iphones. Typically, the geographic data collection rate for iPhones is approximately 1 Hz. This means that even if positional data is collected multiple times per second, it remains identical within each second and is only updated after a full second. This limitation can impact the accuracy of road line registration processes.
+&nbsp;&nbsp;&nbsp;&nbsp;Myapp is a Swift-based application designed to address the challenge of low geographic data collection rates on iphones. Typically, the geographic data collection rate for iPhones is approximately 1 Hz. This means that even if positional data is collected multiple times per second, it remains identical within each second and is only updated after a full second. This limitation can impact the accuracy.
 
 ## Purpose
 
