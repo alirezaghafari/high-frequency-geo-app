@@ -1,4 +1,4 @@
-# high-frequency-geo-app
+# Overview
 
 <p align="center">
   <img src="myapp.png" alt="Myapp" width="300"/>
