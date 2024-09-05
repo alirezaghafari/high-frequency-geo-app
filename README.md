@@ -8,11 +8,11 @@
   Home and Icon
 </p>
 
-Myapp is a Swift-based application designed to address the challenge of low geographic data collection rates on mobile phones, specifically iPhones. Typically, the geographic data collection rate for iPhones is approximately 1 Hz. This means that even if positional data is collected multiple times per second, it remains identical within each second and is only updated after a full second. This limitation can impact the accuracy of road line registration processes.
+&nbsp;&nbsp;&nbsp;&nbsp;Myapp is a Swift-based application designed to address the challenge of low geographic data collection rates on iphones. Typically, the geographic data collection rate for iPhones is approximately 1 Hz. This means that even if positional data is collected multiple times per second, it remains identical within each second and is only updated after a full second. This limitation can impact the accuracy of road line registration processes.
 
 ## Purpose
 
-To mitigate the effects of low geographic data sampling rates, myapp employs an innovative approach to capture location data at a significantly higher frequency of 50 Hz. Unlike the default behavior where all latitude and longitude readings within a second are identical, this program allows us to precisely determine the exact timestamp when the location data was updated. By capturing data every 20 milliseconds (50 Hz), we can identify the exact moment when the mobile sensor's geographic coordinates were refreshed, enhancing the accuracy of the positional data.
+&nbsp;&nbsp;&nbsp;&nbsp;To mitigate the effects of low geographic data sampling rates, myapp employs an innovative approach to capture location data at a significantly higher frequency of 50 Hz. Unlike the default behavior where all latitude and longitude readings within a second are identical, this program allows us to precisely determine the exact timestamp when the location data was updated. By capturing data every 20 milliseconds (50 Hz), we can identify the exact moment when the mobile sensor's geographic coordinates were refreshed, enhancing the accuracy of the positional data.
 
 
 ## Features
